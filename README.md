@@ -1,5 +1,7 @@
 # expressjs-api
 
+## ▶️ - Referencee: https://medium.com/swlh/how-i-structure-my-node-js-rest-apis-4e8904ccd2fb
+
 This repository is a dummy Node.js REST-API built with [TypeScript](https://www.typescriptlang.org/) and [Express](https://expressjs.com/). You might want to use it as codebase for your own Node project.
 
 You can find a detailed explanation about the application's architecture on my [blog](https://larswaechter.dev/blog/nodejs-rest-api-structure/).
